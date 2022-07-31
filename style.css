@@ -1,0 +1,89 @@
+body {
+  color: white;
+  background-color: #0d1117;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cv {
+  color: #58a6ff;
+  padding: 30px;
+  text-align: center;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  height: 600px;
+}
+
+.profile img {
+  display: flex;
+  margin-left: 100px;
+  height: 350px;
+  width: 350px;
+}
+
+
+.bio {
+  margin-right: 30px;
+}
+
+.bio p {
+  margin-top: 50px;
+}
+
+.bio h1 {
+  color: #58a6ff;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  width: 55%;
+  border: 1px solid #58a6ff;
+}
+
+.flex-alignment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.flex-alignment div {
+  background-color: #161b22;
+  margin-left: 10px;
+  margin-top: 30px;
+  width: 100%;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+
+.flex-alignment h4 {
+  margin-left: 50px;
+}
+
+.flex-alignment h3 {
+  margin-left: 50px;
+}
+
+.flex-alignment p {
+  margin-left: 90px;
+}
+
+.flex-alignment li {
+  margin-left: 60px;
+  margin-top: 10px;
+}
+.personal p {
+  margin-left: 100px;
+}
+
+.flex-alignment h2 {
+  text-align: center;
+  color: #58a6ff;
+}
